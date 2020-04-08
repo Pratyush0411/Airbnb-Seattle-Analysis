@@ -1,1 +1,1 @@
-Exploring the impact of static like property type, bed type etc. and dynamic features like communication, cleanliness, customer preference in location etc. on the review ratings of listings in Seattle
+Exploring the impact of static features like property type, bed type etc. and dynamic features like communication, cleanliness, customer preference in location etc. on the review ratings of listings in Seattle
